@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<S1P>
+  <Settings Diff="5" Min="55" Max="555" refImp="50">
+    <Projectname></Projectname>
+  </Settings>
+  <Param1>
+    <Param1Name></Param1Name>
+  </Param1>
+  <Param2>
+    <Param2Name></Param2Name>
+  </Param2>
+</S1P>

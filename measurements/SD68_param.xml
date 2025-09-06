@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<S1P>
+  <Settings Diff="15" Min="265" Max="460" refImp="50">
+    <Projectname>sd68</Projectname>
+  </Settings>
+  <Param1>
+    <Param1Name>L2</Param1Name>
+  </Param1>
+  <Param2>
+    <Param2Name>L3</Param2Name>
+  </Param2>
+  <Favorites>
+    <Favorite>384-34</Favorite>
+    <Favorite>400-20</Favorite>
+    <Favorite>405-15</Favorite>
+    <Favorite>395-23</Favorite>
+  </Favorites>
+</S1P>
