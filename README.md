@@ -8,6 +8,13 @@ After that, I carried out all these measurements.
 
 Not perfect, but as good as possible with the resources I have.
 
+![](https://github.com/SA6HBR/Sirio-antenna-SD68-dipole/blob/main/Sirio%20SDXX.png)  
+
+I create a matrix of the min and max values of L2 and L3.  
+Mark every 20mm of L2 and every 10mm of L3.  
+Set the antenna for these values and measure using the NanoVNA app.  
+Saved s1p files for each measurement with the filename format:  
+SD68_L2 setting_L3 setting.s1p  
 
 ---
 
